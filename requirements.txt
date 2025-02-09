@@ -7,7 +7,6 @@ pandas
 streamlit
 seaborn
 pybase64
-re
 base64
 plotly.express
 BeautifulSoup
