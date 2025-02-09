@@ -173,7 +173,7 @@ def main():
             st.dataframe(df, use_container_width=True, height=600)
 
         if col3.button("👕 Vêtements Enfants"):
-            df = load_csv_safely('data/vetements_enfants.csv')
+            df = load_csv_safely('data/vetements_enfants.csv', encoding='ISO-8859-1)
             st.subheader("📊 Données - Vêtements Enfants")
             st.dataframe(df, use_container_width=True, height=600)
 
