@@ -8,4 +8,4 @@ streamlit
 seaborn
 pybase64
 plotly.express
-BeautifulSoup
+beautifulsoup4
